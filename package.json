@@ -1,6 +1,6 @@
 {
   "name": "@au5ton/snooze",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "snippet to mimick time.sleep() with promises",
   "main": "dist/main.js",
   "types": "dist/index.d.ts",
