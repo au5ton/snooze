@@ -1,0 +1,32 @@
+{
+  "name": "@au5ton/snooze",
+  "version": "1.0.0",
+  "description": "snippet to mimick time.sleep() with promises",
+  "main": "dist/main.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.14.8",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "build": "tsc",
+    "build:check": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cougargrades/types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/au5ton/snooze/issues"
+  },
+  "homepage": "https://github.com/au5ton/snooze#readme"
+}
